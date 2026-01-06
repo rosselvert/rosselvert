@@ -11,11 +11,7 @@
 <div align="center">
 
  
-🌱 I’m currently learning **Web3, 3D Website, Mobile Programming, and Web-Based AI**
-
-👨‍💻 All of my projects are available at [My Website](https://muhammadafzaal.com)
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 I’m currently learning **Low Level Programming**
 
  </div>
  
@@ -30,8 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,php,laravel,git,next,aws" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,rust,mysql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,python" />
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
     <br>
 </div>
