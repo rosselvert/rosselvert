@@ -1,8 +1,6 @@
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
 > currently working on: `discordjs-aleya-vellora`, `python-password-manager`
 
-
-
 <br>
 
 <div align="left">
@@ -11,3 +9,4 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=red" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+
