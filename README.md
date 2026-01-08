@@ -30,9 +30,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -49,10 +46,5 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/afzzrdn/afzzrdn/main/assets/bar_graph.png)
-
-
- Last Updated on 08/01/2026 19:29:00 UTC
 <!--END_SECTION:waka-->
