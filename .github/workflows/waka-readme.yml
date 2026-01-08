@@ -12,16 +12,18 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
           TIME_RANGE: all_time
-          CODE_LANG: rust
           LANG_COUNT: 5
+
           IGNORED_LANGUAGES: "JSON,YAML,Markdown,Bash,Blade Template"
+
           SHOW_TIME: true
           SHOW_TOTAL: true
-          STOP_AT_OTHER: true
+          SHOW_MASKED_TIME: false
+
+          CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-
-
