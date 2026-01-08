@@ -18,7 +18,7 @@ jobs:
           TIME_RANGE: all_time
           CODE_LANG: rust
           LANG_COUNT: 5
-          IGNORED_LANGUAGES: JSON, YAML, Markdown, Blade Template, Bash
+          IGNORED_LANGUAGES: JSON, YAML, Markdown, "Blade Template", Bash
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
