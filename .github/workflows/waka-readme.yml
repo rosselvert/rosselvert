@@ -16,3 +16,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          CODE_LANG: rust
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          SHOW_MASKED_TIME: false 
+          STOP_AT_OTHER: true 
