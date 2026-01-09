@@ -16,8 +16,8 @@
 
 <!--START_SECTION:waka-->
 
-```javascript
-Total Time: 239 hrs 20 mins
+```txt
+Total Time: 240 hrs 26 mins
 
 TypeScript       121 hrs 26 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.51 %
 PHP              54 hrs 30 mins  ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.67 %
