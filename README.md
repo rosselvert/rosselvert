@@ -19,10 +19,10 @@
 ```txt
 Total Time: 240 hrs 26 mins
 
-TypeScript       121 hrs 26 mins ████████████▓░░░░░░░░░░░░   50.51 %
-PHP              54 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-JavaScript       42 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Rust             3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript       121 hrs 26 mins ████████████ ‎‎‎‎‎‎‎‎‎‎‎‎   50.51 %
+PHP              54 hrs 30 mins  █████ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎   22.67 %
+JavaScript       42 hrs 17 mins  ████ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎   17.59 %
+Rust             3 hrs 11 mins    ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎   01.33 %
 ```
 
 <!--END_SECTION:waka-->
