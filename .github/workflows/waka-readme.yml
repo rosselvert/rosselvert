@@ -21,5 +21,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
-          STOP_AT_OTHER: true
           IGNORED_LANGUAGES: JSON, YAML, Markdown, Blade_Template, Bash
