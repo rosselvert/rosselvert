@@ -17,9 +17,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: rust
+          CODE_LANG: python
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: JSON, YAML, Markdown, BladeTemplate, Bash
+          IGNORED_LANGUAGES: JSON, YAML, Markdown, Blade_Template, Bash
