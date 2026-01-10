@@ -26,12 +26,3 @@ Python           5 hrs 2 mins    █________________________   02.08 %
 ```
 
 <!--END_SECTION:waka-->
-
-<div align="right">
-    <a href="https://instagram.com/rosselvert">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a> <br>
-    <a href="https://github.com/afzzrdn"> 
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</div>
