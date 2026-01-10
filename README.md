@@ -26,3 +26,6 @@ Python           5 hrs 2 mins    █________________________   02.08 %
 ```
 
 <!--END_SECTION:waka-->
+
+![img_1350862438245072917_1764424763911_medf5026l1c](https://github.com/user-attachments/assets/3b13a854-d254-4d7d-bd22-246b566abb6c)
+
