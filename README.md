@@ -3,7 +3,8 @@
 
 <br>
 
-<div align="center">
+<div align="left">
+    <img src="https://img.shields.io/badge/tech stack-FFFFFF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/JS-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/RS-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
     <img src="https://img.shields.io/badge/PY-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
