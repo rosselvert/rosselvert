@@ -21,4 +21,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
-          IGNORED_LANGUAGES: JSON, YAML, Markdown, Blade_Template, Bash, PHP
+          IGNORED_LANGUAGES: JSON, YAML, Markdown, Blade_Template, Bash, PHP, Bash, CSS
