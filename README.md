@@ -4,10 +4,10 @@
 <br>
 
 <div align="left">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black" />
 </div>
 
 <br>
