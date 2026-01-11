@@ -28,6 +28,6 @@ Rust             3 hrs 11 mins   _________________________   01.32 %
 
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/user-attachments/assets/2b054183-3107-469b-8edf-af47672ea175" width="100%"/>
+<img src="https://github.com/user-attachments/assets/0eefd63b-db61-43ff-ab9a-34847d90c56a" width="100%"/>
 
 
