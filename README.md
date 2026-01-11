@@ -12,7 +12,6 @@
 
 <br>
 
-> **currently learning:** `python`, `machine learning` <br>
 
 <!--START_SECTION:waka-->
 
