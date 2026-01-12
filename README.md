@@ -1,5 +1,5 @@
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
-> **currently working on:** `discordjs-aleya-vellora`, `python-password-manager`
+> **currently working on:** `python-password-manager`
 
 <br>
 
