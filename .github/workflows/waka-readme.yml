@@ -14,12 +14,12 @@ jobs:
     steps:
       - name: Update README with WakaTime stats
         uses: athul/waka-readme@master
-        env:
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: "waka update $(date +'%Y-%m-%d %H:%M:%S')"
           COMMIT_BY_ME: "true"
           TIME_RANGE: all_time
-          BLOCKS: _█
+          BLOCKS: "_█"
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
