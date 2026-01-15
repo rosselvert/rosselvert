@@ -1,3 +1,7 @@
+<!-- <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=rosselvert&style=for-the-badge"/>
+</div> -->
+
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
 > **currently learning:** `.js, .ts, .py, .rs`
 
