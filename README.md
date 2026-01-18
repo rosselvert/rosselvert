@@ -14,6 +14,23 @@
     <img src="https://img.shields.io/badge/PY-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
     <img src="https://img.shields.io/badge/TS-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black" />
 </div>
+<div align="left">
+    <img src="https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge" />
+    <a href="mailto:mhmdafz78@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />   
+    </a>
+    <a href="https://www.linkedin.com/in/muhammad-afzaal-muzaffaruddin-a3ab263a6/">
+        <img src="https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge" />
+    </a>
+    <a href="https://instagram.com/rosselvert" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
+    </a>
+</div>
+<div align="right">
+    <a href="https://muhammadafzaal.com">
+        <img src="https://img.shields.io/badge/My Portfolio-FFFFFF?style=for-the-badge" />
+    </a>
+</div>
 
 <br>
 
