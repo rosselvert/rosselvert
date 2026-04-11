@@ -3,7 +3,7 @@
 </div> -->
 
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
-> **currently learning:** `.js, .ts, .py, .rs`
+> **currently learning:** `.rs, .js, .c, .py`
 
 <br>
 
