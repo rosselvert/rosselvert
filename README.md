@@ -3,7 +3,7 @@
 </div> -->
 
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
-> **currently learning:** `.rs, .js, .c, .py`
+> **currently learning:** `.rs, .js, .cpp, .py`
 
 <br>
 
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/JS-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/RS-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
     <img src="https://img.shields.io/badge/PY-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
-    <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black" />
 </div>
 <div align="left">
     <img src="https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge" />
