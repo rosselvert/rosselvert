@@ -38,12 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 358 hrs 24 mins
+Total Time: 359 hrs 30 mins
 
-TypeScript       135 hrs 44 mins       █████████________________   37.87 %
-JavaScript       69 hrs 1 min          █████____________________   19.26 %
-Rust             39 hrs 54 mins        ███______________________   11.14 %
-C++              13 hrs 22 mins        █________________________   03.73 %
+TypeScript       135 hrs 44 mins       █████████________________   37.76 %
+JavaScript       69 hrs 1 min          █████____________________   19.20 %
+Rust             39 hrs 54 mins        ███______________________   11.10 %
+C++              14 hrs 27 mins        █________________________   04.02 %
 ```
 
 <!--END_SECTION:waka-->
