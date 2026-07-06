@@ -3,16 +3,16 @@
 </div> -->
 
 > hi, my name is `Afzaal` 👋🏻, i'm a programmer who enjoys building solutions with modern technologies. <br>
-> **currently learning:** `.rs, .js, .cpp, .py`
+> **my portfolio:** `https://rosselvert.com`
 
 <br>
 
 <div align="left">
     <img src="https://img.shields.io/badge/tech stack-FFFFFF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/JS-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/RS-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
-    <img src="https://img.shields.io/badge/PY-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
-    <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=black" />
+    <img src="https://img.shields.io/badge/RUST-FFFFFF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logoColor=black" />
 </div>
 <div align="left">
     <img src="https://img.shields.io/badge/Contact-FFFFFF?style=for-the-badge" />
